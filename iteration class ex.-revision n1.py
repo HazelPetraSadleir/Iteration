@@ -5,4 +5,4 @@
 #revision task 1
 
 for count in range (1,10):
-    print("Hello")
+    print("Hello World")
