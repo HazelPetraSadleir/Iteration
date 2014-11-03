@@ -1,0 +1,10 @@
+#Hazel Sadleir
+#28-10-2014
+#Iteration Class Exercises
+
+#Development exercises-task2
+
+stars= int(input("Enter number of stars: "))
+rows= int(input("Enter number of rows: "))
+answer=stars*rows
+print("{0:<2}*{1:<2}={2:<2}".format(stars,rows,answer))

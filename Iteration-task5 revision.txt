@@ -1,0 +1,14 @@
+#Hazel Petra Sadleir
+#26-10-2014
+#Iteration Exercises
+
+#REvision Task 5
+
+test_score=1
+total=0
+while test_score !=-1 :
+     test_score=int(input("Please enter a number: "))
+
+if test_score>0 :
+    total=total+test_score
+print(total)
