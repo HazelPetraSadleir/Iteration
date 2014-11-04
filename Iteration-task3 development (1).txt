@@ -1,0 +1,10 @@
+#Hazel Sadleir
+#29-10-2014
+#Iteration class exercises
+
+#Development-task3
+
+message=int(input("Please enter a message: "))
+
+for character in {0}.format(message) :
+    print(character)

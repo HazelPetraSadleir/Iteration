@@ -1,0 +1,11 @@
+#Hazel Sadleir
+#28-10-2014
+#Iteration Class Exercises
+
+#Development exercises-task1
+
+n_factorial= int(input("Enter an integer: "))
+
+for number in range (1,"{0}+1".format(n_factorial))
+    answer=number*n
+ print("{0:<2}*{1:<2}={2:<2}".format(number,n,answer))
